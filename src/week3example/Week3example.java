@@ -13,6 +13,7 @@ public class Week3example {
     /*PUSH step 1: initalize versioning, .gitconfig file, .gitignore, local repository commit*/
     public static void main(String[] args) {
         System.out.println("learning github operations");
+        System.out.println("learning github operations push,pull,fetch");
         // TODO code application logic here
     }
     
